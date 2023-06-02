@@ -12,7 +12,23 @@
 ## Data Manipulation with Pandas 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iv0gF1Z1Q1Wd3LGXa2_iXz9Vai5bSh2_#scrollTo=65e8a51c-b67e-4345-8d9a-c0e5b1f02580)
 
-<div style="text-align: justify"> Data Manipulation is the process of manipulating or changing information to make the data more organized and easier to read. So the data will be easier to interpret.    </div>
+<div style="text-align: justify"> Data Manipulation is the process of manipulating or changing information to make the data more organized and easier to read. So the data will be easier to interpret. </div>
+
+<center><img src="images/topic6.png"/></center>
+
+##Topik 78
+## Data Visualization (Data : Titanic)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/17H4Fk85kESsdkufatJRsFA4dShtgXB8M)
+
+<div style="text-align: justify"> Data Visualization is the graphical representation of information and data by using visual elements like charts,graphs,maps,etc. Data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. In this case, i used Titanic dataset to visualize the information contained in it.  </div>
+
+<center><img src="images/topic6.png"/></center>
+
+##Topik 910
+## Statistics (Data : Diabetes Patients)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/14x0lwwcIJVghrDA1OjEiwQYUoPW5qoFp)
+
+<div style="text-align: justify"> Statistics is important in data science. Almost all data processing uses statistics in it. This google colaboratory contains the basic and essential part of statistics  </div>
 
 <center><img src="images/topic6.png"/></center>
 
