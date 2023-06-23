@@ -22,7 +22,7 @@
 
 <div style="text-align: justify"> Data Visualization is the graphical representation of information and data by using visual elements like charts,graphs,maps,etc. Data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. In this case, i used Titanic dataset to visualize the information contained in it.  </div>
 
-<center><img src="images/topic6.png"/></center>
+<center><img src="images/topic78.png"/></center>
 
 ##Topik 910
 ## Statistics (Data : Diabetes Patients)
@@ -30,7 +30,7 @@
 
 <div style="text-align: justify"> Statistics is important in data science. Almost all data processing uses statistics in it. This google colaboratory contains the basic and essential part of statistics  </div>
 
-<center><img src="images/topic6.png"/></center>
+<center><img src="images/topic910.png"/></center>
 
 ##Topik 1112 
 ## Exploratory Data Analysis (Data : Telco Customer Churn)
@@ -38,7 +38,7 @@
 
 <div style="text-align: justify"> Statistics is important in data science. Almost all data processing uses statistics in it. This google colaboratory contains the basic and essential part of statistics  </div>
 
-<center><img src="images/topic6.png"/></center>
+<center><img src="images/topic1112.png"/></center>
 
 ##Topik 1314 
 ## Statistical Modelling (Data : House Prices & Mall Customers)
@@ -46,7 +46,7 @@
 
 <div style="text-align: justify"> Statistics is important in data science. Almost all data processing uses statistics in it. This google colaboratory contains the basic and essential part of statistics  </div>
 
-<center><img src="images/topic6.png"/></center>
+<center><img src="images/topic1314.png"/></center>
 
 
 ## Data Analysis and Visualization (Data: Museum Visitors Data)
