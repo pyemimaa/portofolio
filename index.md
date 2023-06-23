@@ -7,7 +7,7 @@
 
 <div style="text-align: justify">Data cleansing also reffered to as data cleaning is the process of fixing incorrect, incomplete, duplicate or otherwise erroneous data in data set. It involves identifying data errors and then changing, updating or removing data to correct them. In this case, Telco Customer Churn data also need to be cleaned in order to improves the data quality and helps provide more accurate, consistent and reliable information.   </div>
 
-<center><img src="images/topic5.png"/></center>
+<center><img src="images/topic18.png"/></center>
 
 ##Topik 5
 ## DataFrame Basics and Data Cleansing (Data: Telco Customer Churn)
