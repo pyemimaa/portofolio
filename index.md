@@ -1,5 +1,14 @@
 # Portofolio
 ---
+
+##Topik 18
+## DataFrame Basics and Data Cleansing (Data: Telco Customer Churn)
+[![View In Google Data Studio]](https://lookerstudio.google.com/reporting/5b9e5197-65c9-486c-bed7-6e85192987fd)
+
+<div style="text-align: justify">Data cleansing also reffered to as data cleaning is the process of fixing incorrect, incomplete, duplicate or otherwise erroneous data in data set. It involves identifying data errors and then changing, updating or removing data to correct them. In this case, Telco Customer Churn data also need to be cleaned in order to improves the data quality and helps provide more accurate, consistent and reliable information.   </div>
+
+<center><img src="images/topic5.png"/></center>
+
 ##Topik 5
 ## DataFrame Basics and Data Cleansing (Data: Telco Customer Churn)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1YYs0VP9hrtqWLh9UCZUg1uyyb-yVvEjA#scrollTo=zueR8Viootki)
