@@ -1,7 +1,7 @@
 # Portofolio
 ---
 
-##Topik 18
+
 ## Data Visualization Project with Looker Studio
 Global Covid-19 Cases Dashboard
 
@@ -11,7 +11,7 @@ Global Covid-19 Cases Dashboard
 
 <center><img src="images/topic18.png"/></center>
 
-##Topik 5
+
 ## DataFrame Basics and Data Cleansing (Data: Telco Customer Churn)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1YYs0VP9hrtqWLh9UCZUg1uyyb-yVvEjA#scrollTo=zueR8Viootki)
 
@@ -19,7 +19,7 @@ Global Covid-19 Cases Dashboard
 
 <center><img src="images/topic5.png"/></center>
 
-##Topik 6
+
 ## Data Manipulation with Pandas 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iv0gF1Z1Q1Wd3LGXa2_iXz9Vai5bSh2_#scrollTo=65e8a51c-b67e-4345-8d9a-c0e5b1f02580)
 
@@ -27,7 +27,7 @@ Global Covid-19 Cases Dashboard
 
 <center><img src="images/topic6.png"/></center>
 
-##Topik 78
+
 ## Data Visualization (Data : Titanic)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/17H4Fk85kESsdkufatJRsFA4dShtgXB8M)
 
@@ -35,7 +35,7 @@ Global Covid-19 Cases Dashboard
 
 <center><img src="images/topic78.png"/></center>
 
-##Topik 910
+
 ## Statistics (Data : Diabetes Patients)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/14x0lwwcIJVghrDA1OjEiwQYUoPW5qoFp)
 
@@ -43,7 +43,7 @@ Global Covid-19 Cases Dashboard
 
 <center><img src="images/topic910.png"/></center>
 
-##Topik 1112 
+
 ## Exploratory Data Analysis (Data : Telco Customer Churn)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1EwkPN4aR-DL0q0RYy1vtf5t17dFEA8jU?usp=sharing)
 
@@ -51,12 +51,11 @@ Global Covid-19 Cases Dashboard
 
 <center><img src="images/topic1112.png"/></center>
 
-##Topik 1314 
+
 ## Statistical Modelling (Data : House Prices & Mall Customers)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1nLJ-kWcoKMxBYwgHUM-jxiIz8tvXCEjr?usp=sharing)
 
 <div style="text-align: justify"> The House Prices dataset contains information about residential properties, including features like the number of bedrooms, square footage, location, and sale prices. Statistical modeling using regression aims to build a model that predicts housing prices based on these variables and provides insights into the factors driving price variations. Regression modeling allows for understanding the relationships between features and prices, enabling informed decision-making and analysis in the real estate domain.
-</div> 
 
 <div style="text-align: justify"> The Mall Customers dataset contains information about customers' attributes, such as their age, annual income, and spending score. Statistical modeling using clustering aims to group customers based on similar characteristics and behavior patterns. This allows businesses to better understand their customer base and tailor marketing strategies accordingly. By applying statistical modeling clustering techniques to the Mall Customers dataset, businesses can gain insights into the different customer segments and develop targeted marketing approaches. Clustering also enables businesses to understand their customer base more effectively for improved decision-making and customer-centric strategies.
 </div> 
