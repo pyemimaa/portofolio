@@ -32,6 +32,23 @@
 
 <center><img src="images/topic6.png"/></center>
 
+##Topik 1112 
+## Exploratory Data Analysis (Data : Telco Customer Churn)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1EwkPN4aR-DL0q0RYy1vtf5t17dFEA8jU?usp=sharing)
+
+<div style="text-align: justify"> Statistics is important in data science. Almost all data processing uses statistics in it. This google colaboratory contains the basic and essential part of statistics  </div>
+
+<center><img src="images/topic6.png"/></center>
+
+##Topik 1314 
+## Statistical Modelling (Data : House Prices & Mall Customers)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1nLJ-kWcoKMxBYwgHUM-jxiIz8tvXCEjr?usp=sharing)
+
+<div style="text-align: justify"> Statistics is important in data science. Almost all data processing uses statistics in it. This google colaboratory contains the basic and essential part of statistics  </div>
+
+<center><img src="images/topic6.png"/></center>
+
+
 ## Data Analysis and Visualization (Data: Museum Visitors Data)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Ou_1vh4Yd2p3VtrXSYd31kxZRQy0DNZU)
 
