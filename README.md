@@ -1,6 +1,6 @@
 # Hi there, This Is Yemima 👋
 ## About me:
-- I am a final year statistics student at Diponegoro University [Diponegoro University](https://www.undip.ac.id)
+- I am a final year statistics student at [Diponegoro University](https://www.undip.ac.id)
 - I am currently a Data Analitycs Independent Student at Zenius Education  
 - I am currently learning Python and SQL
 
