@@ -9,7 +9,7 @@ Global Covid-19 Cases Dashboard
 
 <div style="text-align: justify"> a COVID-19 dashboard in Looker Studio would serve as a central hub for monitoring and analyzing the pandemic's impact. By presenting data in an intuitive and visually appealing manner, it would enable users to make informed decisions, track trends, and understand the evolving situation more effectively. </div>  
 
-<center><img src="images/topic18.png"/></center>
+<center><img src="images/topic18.png"/></center> <br>
 
 ## SQL Project
 Data: DVD Rental
