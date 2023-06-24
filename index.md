@@ -2,7 +2,7 @@
 ---
 
 
-## Data Visualization Project with Looker Studio
+## Lookers Studio Project
 Global Covid-19 Cases Dashboard
 
 [[View In Looker Studio]](https://lookerstudio.google.com/reporting/5b9e5197-65c9-486c-bed7-6e85192987fd)
@@ -11,7 +11,9 @@ Global Covid-19 Cases Dashboard
 
 <center><img src="images/topic18.png"/></center>
 
+## SQL Project
 
+## Python Project
 ## DataFrame Basics and Data Cleansing (Data: Telco Customer Churn)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1YYs0VP9hrtqWLh9UCZUg1uyyb-yVvEjA#scrollTo=zueR8Viootki)
 
