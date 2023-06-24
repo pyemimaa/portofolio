@@ -15,15 +15,19 @@ Global Covid-19 Cases Dashboard
 ## DataFrame Basics and Data Cleansing (Data: Telco Customer Churn)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1YYs0VP9hrtqWLh9UCZUg1uyyb-yVvEjA#scrollTo=zueR8Viootki)
 
-<div style="text-align: justify">Data cleansing also reffered to as data cleaning is the process of fixing incorrect, incomplete, duplicate or otherwise erroneous data in data set. It involves identifying data errors and then changing, updating or removing data to correct them. In this case, Telco Customer Churn data also need to be cleaned in order to improves the data quality and helps provide more accurate, consistent and reliable information.   </div>
+<div style="text-align: justify">Data cleansing also reffered to as data cleaning is the process of fixing incorrect, incomplete, duplicate or otherwise erroneous data in data set. It involves identifying data errors and then changing, updating or removing data to correct them. In this case, Telco Customer Churn data also need to be cleaned in order to improves the data quality and helps provide more accurate, consistent and reliable information. Data cleaning in the dataset has been carried out with the aim of:
+1. Missing value checking and handling
+2. Categorical data encoding
+3. Outlier handling
+ </div>
 
 <center><img src="images/topic5.png"/></center>
 
 
-## Data Manipulation with Pandas 
+## Data Preprocessing with Pandas 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iv0gF1Z1Q1Wd3LGXa2_iXz9Vai5bSh2_#scrollTo=65e8a51c-b67e-4345-8d9a-c0e5b1f02580)
 
-<div style="text-align: justify"> Data manipulation is a crucial step in data analysis and preparation. It involves transforming and modifying raw data to make it more suitable for analysis or to derive meaningful insights. Data manipulation allows us to clean, filter, reshape, combine, or summarize data based on specific requirements. Data manipulation functions in Pandas offer a wide range of capabilities to clean, transform, and analyze data. The library offers a vast array of functions and methods that cater to various data manipulation needs, making it a powerful tool for working with structured data in Python. </div>
+<div style="text-align: justify"> Data manipulation is a crucial step in data analysis and preparation. It involves transforming and modifying raw data to make it more suitable for analysis or to derive meaningful insights. Data manipulation allows us to clean, filter, reshape, combine, or summarize data based on specific requirements. In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation function. </div>
 
 <center><img src="images/topic6.png"/></center>
 
@@ -31,7 +35,11 @@ Global Covid-19 Cases Dashboard
 ## Data Visualization (Data : Titanic)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/17H4Fk85kESsdkufatJRsFA4dShtgXB8M)
 
-<div style="text-align: justify"> Data Visualization is the graphical representation of information and data by using visual elements like charts,graphs,maps,etc. Data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. In this case, i used Titanic dataset to visualize the information contained in it. Data visualization with the Titanic dataset helps us understand the dynamics of the tragic event and sheds light on factors that influenced survival. By visually representing the data, we can identify trends, patterns, and correlations that might not be immediately apparent in the raw dataset. These visualizations aid in storytelling, exploration, and the communication of insights derived from the Titanic dataset.  </div>
+<div style="text-align: justify"> Data Visualization is the graphical representation of information and data by using visual elements like charts,graphs,maps,etc. In this case, i used Titanic dataset to visualize the information contained in it. By visually representing the data, we can identify trends, patterns, and correlations that might not be immediately apparent in the raw dataset. These visualizations aid in storytelling, exploration, and the communication of insights derived from the Titanic dataset. In this project, visualization is carried out as follows:
+1. Barplot: plot of the number of passengers based passangers' class, survived category, gender, and embarked.
+2. Boxplot and distplot: distribution plot of passangers' age, passangers' fare, and passangers' siblings/spouses aboard.
+3. Scatterplot: plot of the relationship between passengers' parch and survived category, passangers' siblings/spouses aboard and survived category.
+4. Pie chart: number of passengers based on survived, passangers' class, embarked, and gender. </div>
 
 <center><img src="images/topic78.png"/></center>
 
@@ -39,7 +47,10 @@ Global Covid-19 Cases Dashboard
 ## Statistics (Data : Diabetes Patients)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/14x0lwwcIJVghrDA1OjEiwQYUoPW5qoFp)
 
-<div style="text-align: justify"> Statistics is important in data science. Almost all data processing uses statistics in it. This google colaboratory contains the basic and essential part of statistics and the diabetes dataset contains information about patients with diabetes, including clinical measurements such as glucose levels, blood pressure, body mass index (BMI), and diabetes progression over time. By applying statistical analysis to this dataset, we can gain insights into the relationship between these variables, identify risk factors, and many more.   </div>
+<div style="text-align: justify"> Statistics is important in data science. Almost all data processing uses statistics in it. This google colaboratory contains the basic and essential part of statistics and the diabetes dataset contains information about patients with diabetes, including clinical measurements such as glucose levels, blood pressure, body mass index (BMI), and diabetes progression over time. Several things are done statistically with this dataset, including:
+1. Descriptive statistics: mean, median, mode, variance.
+2. Boxplot to find out the distribution of data and the number of outliers.
+3. distribution plot to determine the distribution of a variable and the distribution of the data. </div>
 
 <center><img src="images/topic910.png"/></center>
 
@@ -47,7 +58,11 @@ Global Covid-19 Cases Dashboard
 ## Exploratory Data Analysis (Data : Telco Customer Churn)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1EwkPN4aR-DL0q0RYy1vtf5t17dFEA8jU?usp=sharing)
 
-<div style="text-align: justify"> Exploratory Data Analysis (EDA) is a crucial step in understanding and gaining insights from datasets, and the Telco Customer Churn dataset is often used for exploring customer behavior and identifying factors that contribute to customer churn. The Telco Customer Churn dataset contains information about customers of a telecommunications company, including features such as customer demographics, services subscribed, contract details, and churn status (whether a customer has churned or not). By performing exploratory data analysis on this dataset, we can uncover patterns, relationships, and potential predictors of customer churn. We also can gain valuable insights to inform business decisions and develop effective churn prevention strategies  </div>
+<div style="text-align: justify"> Exploratory Data Analysis (EDA) is a crucial step in understanding and gaining insights from datasets, and the Telco Customer Churn dataset is often used for exploring customer behavior and identifying factors that contribute to customer churn. Exploratory Data Analysis and Visualization are carried out to find out:
+1. Statistical Summary: numerical and categorical approach.
+2. Univariate Analysis: to find out the distribution of data on numerical data and the number of categorical variables.
+3. Bivariate Analysis: to determine the relationship between 2 variables.
+4. Multivariate Analysis: To determine the correlation between data with a large number of variables using a heatmap.  </div>
 
 <center><img src="images/topic1112.png"/></center>
 
