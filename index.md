@@ -12,7 +12,7 @@ Global Covid-19 Cases Dashboard
 <center><img src="images/topic18.png"/></center>
 
 ## SQL Project
-Data: DVD Renta
+Data: DVD Rental
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pyemimaa/portofolio/blob/main/projects/dvd.rental.sql)
 <div style="text-align: justify">The DVD rental dataset typically consists of various tables representing different entities such as customers, films, rentals, and payments. SQL allows users to perform a wide range of operations on this dataset, including retrieving specific data, filtering records based on conditions, aggregating information, and performing complex joins between tables. By using PostrageSQL, several variables will be searched as follows:<br>
