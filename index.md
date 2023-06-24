@@ -39,13 +39,14 @@ Data: DVD Rental
 <br> 
 
 <center><img src="images/topic5.png"/></center>
+<br>
 </div> <br>
 
 ### Data Preprocessing with Pandas 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1iv0gF1Z1Q1Wd3LGXa2_iXz9Vai5bSh2_#scrollTo=65e8a51c-b67e-4345-8d9a-c0e5b1f02580)
 
 <div style="text-align: justify"> Data manipulation is a crucial step in data analysis and preparation. It involves transforming and modifying raw data to make it more suitable for analysis or to derive meaningful insights. Data manipulation allows us to clean, filter, reshape, combine, or summarize data based on specific requirements. In this project, data preprocessing is done using the join, merge, delete, rename, group by, and aggregation function. </div>
-
+<br>
 <center><img src="images/topic6.png"/></center> <br>
 
 
@@ -57,7 +58,7 @@ Data: DVD Rental
 2. Boxplot and distplot: distribution plot of passangers' age, passangers' fare, and passangers' siblings/spouses aboard.<br>
 3. Scatterplot: plot of the relationship between passengers' parch and survived category, passangers' siblings/spouses aboard and survived category.<br>
 4. Pie chart: number of passengers based on survived, passangers' class, embarked, and gender.<br> </div>
-
+<br>
 <center><img src="images/topic78.png"/></center> <br>
 
 
@@ -68,7 +69,7 @@ Data: DVD Rental
 1. Descriptive statistics: mean, median, mode, variance.<br>
 2. Boxplot to find out the distribution of data and the number of outliers.<br>
 3. distribution plot to determine the distribution of a variable and the distribution of the data. <br></div>
-
+<br>
 <center><img src="images/topic910.png"/></center> <br>
 
 
@@ -80,7 +81,7 @@ Data: DVD Rental
 2. Univariate Analysis: to find out the distribution of data on numerical data and the number of categorical variables.<br>
 3. Bivariate Analysis: to determine the relationship between 2 variables.<br>
 4. Multivariate Analysis: To determine the correlation between data with a large number of variables using a heatmap. <br>  </div>
-
+<br>
 <center><img src="images/topic1112.png"/></center> <br>
 
 
@@ -91,6 +92,6 @@ Data: DVD Rental
 The House Prices dataset contains information about residential properties, including features like the number of bedrooms, square footage, location, and sale prices. Statistical modeling using regression aims to build a model that predicts housing prices based on these variables and provides insights into the factors driving price variations. Regression modeling allows for understanding the relationships between features and prices, enabling informed decision-making and analysis in the real estate domain. <br> <br>
 
 The Mall Customers dataset contains information about customers' attributes, such as their age, annual income, and spending score. Statistical modeling using clustering aims to group customers based on similar characteristics and behavior patterns. This allows businesses to better understand their customer base and tailor marketing strategies accordingly. By applying statistical modeling clustering techniques to the Mall Customers dataset, businesses can gain insights into the different customer segments and develop targeted marketing approaches. Clustering also enables businesses to understand their customer base more effectively for improved decision-making and customer-centric strategies. <br></div>
-
+<br>
 <center><img src="images/topic1314.png"/></center> <br>
 
