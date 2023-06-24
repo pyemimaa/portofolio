@@ -22,8 +22,7 @@ Global Covid-19 Cases Dashboard
 6. The most profitable country for the business.<br>
 7. The average rental rate per film genre (rating).</div>
 <br>
-<center><img src="images/sql1.png"/></center>
-<center><img src="images/sql3.png"/></center>
+<center><img src="images/sql.jpeg"/></center>
 <br>
 
 ## Python Project
